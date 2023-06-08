@@ -1,0 +1,6 @@
+# Gradle playground
+
+Collection of projects to illustrate Gradle features.
+Will aim at showcasing best practices when possible.
+
+* `composite-task-wiring` is about wiring tasks between composite builds, using publication as the illustration.
